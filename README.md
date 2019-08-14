@@ -1,4 +1,6 @@
 Barefoot Nomad - Making company travel and accomodation easy and convinient.
+
+[![Build Status](https://travis-ci.com/voke1/voke.svg?branch=master)](https://travis-ci.com/voke1/voke)
 =======
 
 ## Vision
